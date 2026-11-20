@@ -1,0 +1,13 @@
+{
+  "user_id": 1,
+  "first_name": "Ada",
+  "address": {
+    "street_name": "Main St",
+    "zip_code": "12345"
+  },
+  "tags": [
+    {
+      "tag_name": "history"
+    }
+  ]
+}
